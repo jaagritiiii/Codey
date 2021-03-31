@@ -1,0 +1,10 @@
+#include<stdio.h>
+#include<stdlib.h>
+
+int main()
+{
+int age;
+printf("Enter the age of customer: ");
+scanf("%d", &age);
+// if statements use
+if (age > 18)
